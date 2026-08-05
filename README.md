@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=AI%20Navneet%20Sales%20Intelligence%20Dashboard&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI-Powered%20Sales%20vs%20Target%20Management%20Platform&descAlignY=60&descSize=20&animation=fadeIn&color=0:EFF6FF,15:BFDBFE,35:60A5FA,55:2563EB,75:1D4ED8,100:172554" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=AI%20Sales%20Intelligence%20Dashboard&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI-Powered%20Sales%20vs%20Target%20Management%20Platform&descAlignY=60&descSize=20&animation=fadeIn&color=0:EFF6FF,15:BFDBFE,35:60A5FA,55:2563EB,75:1D4ED8,100:172554" width="100%">
 </p>
 
 <div align="center">
 
 # Sales Intelligence Dashboard
 
-### AI-Powered Sales vs Target Management and Market Intelligence Platform
+### AI-Powered Navneet Sales vs Target Management and Market Intelligence Platform
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3300&pause=1000&color=2563EB&center=true&vCenter=true&width=1100&lines=Sales+vs+Target+Performance;Open+PO+Visibility;AI-Powered+Market+Intelligence;Team+and+Customer+Analytics;Business+Year+Oct+to+Sep;Management+Decision+Support"/>
 
