@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Sales%20Intelligence%20Dashboard&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI-Powered%20Sales%20vs%20Target%20Management%20Platform&descAlignY=60&descSize=20&animation=fadeIn&color=0:EFF6FF,15:BFDBFE,35:60A5FA,55:2563EB,75:1D4ED8,100:172554" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=AI%20Navneet%20Sales%20Intelligence%20Dashboard&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI-Powered%20Sales%20vs%20Target%20Management%20Platform&descAlignY=60&descSize=20&animation=fadeIn&color=0:EFF6FF,15:BFDBFE,35:60A5FA,55:2563EB,75:1D4ED8,100:172554" width="100%">
 </p>
 
 <div align="center">
