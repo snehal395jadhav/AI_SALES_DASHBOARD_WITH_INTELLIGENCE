@@ -26,6 +26,20 @@
 
 ---
 
+## 🎥 Demo Preview
+
+
+<a href="https://www.loom.com/share/bcd3a5eefaf94c69b55b33b9496be153" target="_blank">
+
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_POLYMER_COSTING_APP/main/Screenshot.png"  width="95%"/>
+
+</a>
+
+👉 [Click here to watch full screen demo](https://www.loom.com/share/bcd3a5eefaf94c69b55b33b9496be153)
+
+---
+
+
 # Overview
 
 Sales Intelligence Dashboard is a self-hosted enterprise management platform for monthly Sales vs Target reviews, open Purchase Order tracking, team-wise performance analysis, customer intelligence, market information, meeting governance, and AI-assisted business decision support.
