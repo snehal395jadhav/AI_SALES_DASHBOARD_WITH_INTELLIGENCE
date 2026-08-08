@@ -1,0 +1,11 @@
+data/
+*.pyc
+__pycache__/
+.DS_Store
+*.xlsb
+*.xlsx
+*.xls
+.git/
+.venv/
+venv/
+node_modules/

@@ -1,0 +1,17 @@
+services:
+  dashboard:
+    build: .
+    container_name: sales-dashboard
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persists all uploaded data across restarts & rebuilds
+      - ./data:/app/data
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-admin123}
+      # Market News / Market Information use NVIDIA (nemotron-3-ultra) as primary,
+      # OpenRouter (MI_MODEL) as fallback if the NVIDIA call fails.
+      # - MI_MODEL=openai/gpt-oss-20b:free

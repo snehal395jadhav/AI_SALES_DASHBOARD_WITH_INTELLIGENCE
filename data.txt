@@ -1,0 +1,11 @@
+Run it in CMD:
+cd C:\Users\Snehal\Downloads\projectmy\projectmy\sales-dashboard
+python app.py
+Then open:
+http://127.0.0.1:8000
+If needed, install dependencies first:
+pip install -r requirements.txt
+Notes:
+I did not delete the Docker files yet, but the app no longer depends on them to run locally.
+I also syntax-checked both Python entrypoints successfully.
+If you want, I can next remove the Docker files and clean the README so the project is fully “plain CMD only.”
