@@ -29,13 +29,13 @@
 ## 🎥 Demo Preview
 
 
-<a href="https://www.loom.com/share/bcd3a5eefaf94c69b55b33b9496be153" target="_blank">
+<a href="https://www.loom.com/share/4590a5c27beb459b9d8dfce1b2b0c48b" target="_blank">
 
-<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_POLYMER_COSTING_APP/main/Screenshot.png"  width="95%"/>
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_SALES_DASHBOARD_WITH_INTELLIGENCE/main/Screenshot.png"  width="95%"/>
 
 </a>
 
-👉 [Click here to watch full screen demo](https://www.loom.com/share/bcd3a5eefaf94c69b55b33b9496be153)
+👉 [Click here to watch full screen demo](https://www.loom.com/share/4590a5c27beb459b9d8dfce1b2b0c48b)
 
 ---
 
